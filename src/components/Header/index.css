@@ -1,0 +1,16 @@
+.dark-mode-icon {
+  height: 30px;
+  width: 30px;
+}
+
+.light-mode-icon {
+  height: 30px;
+  width: 30px;
+  color: #ffff;
+}
+
+.logout-button-container {
+  width: 120px;
+  list-style: none;
+  margin-left: 10px;
+}
