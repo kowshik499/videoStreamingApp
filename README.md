@@ -5,7 +5,7 @@ In this project, I've built an **Video Streaming Application** by applying the c
 
 ### Application Video
 
-- [Click to view](https://youtu.be/ke3oCd0q3aU)
+- [Click to view](https://youtu.be/1TPAMEx2xAE)
 
 
 ### User Credentials
